@@ -1,0 +1,4 @@
+# ninja log v6
+2	57	1761431158199302794	build.ninja	f7ca3cf5a43dc5b
+3	210	1761160640962096037	CMakeFiles/quadTreeImageCompression.dir/src/main.c.o	9e20edaa337f6472
+210	321	1761160641169809242	quadTreeImageCompression	f4b04f476f8d6f0c

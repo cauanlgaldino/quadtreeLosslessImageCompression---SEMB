@@ -1,0 +1,3 @@
+/Users/cauangaldino/CLionProjects/quadTreeImageCompression/cmake-build-debug/CMakeFiles/quadTreeImageCompression.dir
+/Users/cauangaldino/CLionProjects/quadTreeImageCompression/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cauangaldino/CLionProjects/quadTreeImageCompression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
